@@ -1,72 +1,142 @@
 <h1 align="center">Hi 👋, I'm Lakshay Kaushik</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | B.Tech CSE (2023–2027)</h3>
+
+<h3 align="center">
+Full Stack Developer • AI Enthusiast • B.Tech CSE (2023–2027)
+</h3>
 
 <p align="center">
-Passionate about building modern web applications and AI-powered solutions using React, Next.js, Node.js, MongoDB, and Python.
+Passionate about building AI-powered web applications using React, Next.js, Node.js, MongoDB, and Python.
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/lakshay-kaushik-233705289">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-design-steel-eight.vercel.app/?_vercel_share=BEhR1hIrqMglCYYSPXJLYoUz9rPuu7Eh">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:lakshaykaushik4605@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 B.Tech in Computer Science Engineering (2023–2027)
-- 🏫 Dronacharya College of Engineering
-- 🌱 Currently learning **DSA, Docker & AWS**
-- 💻 Interested in **Full Stack Development & Artificial Intelligence**
-- 📍 Gurugram, Haryana, India
+🎓 **B.Tech Computer Science Engineering (2023–2027)**  
+🏫 Dronacharya College of Engineering
+
+💻 Full Stack Developer
+
+🤖 Interested in Artificial Intelligence
+
+📍 Gurugram, Haryana, India
+
+🌱 Currently Learning
+- Data Structures & Algorithms
+- Docker
+- AWS
+- System Design
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+- JavaScript
+- TypeScript
+- Python
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+- React.js
+- Next.js
+- HTML5
+- CSS3
+- Tailwind CSS
 
 ### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+
+- Node.js
+- Express.js
 
 ### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+- MongoDB
+
+### AI
+
+- Python
+- spaCy
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+- Git
+- GitHub
+- Docker
+- Vercel
+- Figma
+- VS Code
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 AI Career Recommender
-AI-powered platform that recommends suitable career paths based on user skills and interests.
+## 🤖 AI Career Recommender
 
-### 📝 Safe Journal
-An AI-powered journaling application with mood tracking and personalized insights.
+AI-powered platform that recommends career paths based on user skills and interests.
 
-### 🏫 Campus Buddy
-A secure college management platform with a modern user interface.
+**Tech Stack**
 
-### 🛡️ DRDO Interview Assessment Platform (SIH)
-AI-based adaptive interview simulation platform developed for Smart India Hackathon.
+React • Next.js • Node.js • MongoDB
 
 ---
 
-## 📫 Connect With Me
+## 📝 Safe Journal
 
-- 💼 LinkedIn: **Add Your LinkedIn URL**
-- 🌐 Portfolio: **Add Your Portfolio URL**
-- 📧 Email: **Add Your Email**
+An AI-powered journaling application with mood tracking, personalized insights, and analytics.
+
+**Tech Stack**
+
+React • Node.js • MongoDB
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🏫 Campus Buddy
+
+Secure college management platform with a modern and responsive UI.
+
+**Tech Stack**
+
+React • Next.js • Tailwind CSS
+
+---
+
+## 🛡️ DRDO Interview Assessment Platform (SIH)
+
+Adaptive AI-based interview simulation platform developed for Smart India Hackathon.
+
+**Tech Stack**
+
+React • Node.js • Python • MongoDB
+
+---
+
+# 📫 Connect With Me
+
+📧 Email  
+**lakshaykaushik4605@gmail.com**
+
+💼 LinkedIn  
+https://www.linkedin.com/in/lakshay-kaushik-233705289
+
+🌐 Portfolio  
+https://portfolio-design-steel-eight.vercel.app/?_vercel_share=BEhR1hIrqMglCYYSPXJLYoUz9rPuu7Eh
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
